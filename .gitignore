@@ -1,0 +1,12 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+bin/
+include/
+lib/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
